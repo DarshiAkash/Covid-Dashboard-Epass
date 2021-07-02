@@ -55,7 +55,8 @@ class App extends Component{
         <NavDropdown title={<span style={{color:'white',marginLeft:'30px'}}>Epass</span>} id="navdropdown" style={{color:'white'}} >
           <NavDropdown.Item href="/Components/E_pass" >Apply E-Pass</NavDropdown.Item>
           <NavDropdown.Item href="/Components/Tracking">Track E-Pass</NavDropdown.Item>
-//         </NavDropdown>  <Nav.Link href="/Components/India" style={{color:'white',marginLeft:'30px'}}>India</Nav.Link>
+        </NavDropdown>
+//         <Nav.Link href="/Components/India" style={{color:'white',marginLeft:'30px'}}>India</Nav.Link>
       
 
         {/* <Nav.Link href="/Components/testing">Send Message</Nav.Link> */}
